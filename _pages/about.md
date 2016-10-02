@@ -1,7 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+layout: splash
 excerpt: "About Me"
+header:
+  overlay_image: path.jpg
+  caption: "Photo Credit: Meghan Angelos"
 ---
 
 {% include base_path %}
