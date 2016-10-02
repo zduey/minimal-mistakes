@@ -11,9 +11,9 @@ title                    : "Journeyman to Master"
 title_separator          : "-"
 name                     : "Zach Duey"
 description              : "Tutorials, code snippets, and commentary on the process of becoming a developer."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://zduey.github.io" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "zduey/zduey.github.io" 
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : 'master' # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "Z_Duey"
 facebook:
   username               :
   app_id                 :
@@ -67,6 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/Z_Duey"
 
 # Analytics
 analytics:
@@ -78,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "Zach Duey"
-  avatar           : "bio-photo.jpg"
+  avatar           : "zach-bio-photo.jpg"
   bio              : ""
   location         : "Chicago, IL"
-  email            :
+  email            : "zachduey@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,18 +90,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "zduey"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "zachary-duey-37b28746"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "Z_Duey"
   vine             :
   weibo            :
   xing             :
@@ -164,26 +165,26 @@ kramdown:
 # Collections
 
 # Defaults
-  defaults:
-    # _posts
-    - scope:
-        path: ""
-        type: posts
-      values:
-        layout: single
-        author_profile: true
-        read_time: true
-        comments: true
-        share: true
-        related: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
-    # _pages
-    - scope:
-        path: ""
-        type: pages
-      values:
-        layout: single
-        author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
             
 # Sass/SCSS
