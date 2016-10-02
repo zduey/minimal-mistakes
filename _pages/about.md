@@ -1,9 +1,10 @@
 ---
 permalink: /about/
 layout: splash
-excerpt: "About Me"
+title: "About Me"
 header:
   overlay_image: path.jpg
+  overlay_filter: .2
   caption: "Photo Credit: Meghan Angelos"
 ---
 
