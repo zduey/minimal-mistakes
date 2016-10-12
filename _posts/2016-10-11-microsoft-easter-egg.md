@@ -13,7 +13,7 @@ tags:
 
 **tl;dr 1900 was not a leap year and you know it Microsoft** [Gist](https://gist.github.com/zduey/528e78430b6ae8107ddd05f5752dff77) 
 
-Ever watched a Pixar movie, or more likely, read a review after the fact outlining all of the references to other Pixar movies? Well, this is not exactly like that, but you can think of this as a self-referential Easter egg between past and present Microsoft Office products. It more typical parlance: a festering bug.
+Ever watched a Pixar movie, or more likely, read a review after the fact outlining all of the references to other Pixar movies? Well, this is not exactly like that, but you can think of this as a self-referential Easter egg between past and present Microsoft Office products. In more typical parlance: a festering bug.
 
 A while back, I was writing a script to do some pretty simple data processing. As I was building the script, I noticed a very odd problem: I had data for weekends when there should not have been. Fast forward a frustrating hour to the point where I discovered that what I thought was my coding error or some quirk of the data was the result of one easy to fix problem, one very random trivia fact, and one very old bug in the Microsoft ecosystem.
 
