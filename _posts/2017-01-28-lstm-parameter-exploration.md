@@ -398,7 +398,7 @@ plt.title("Batch Size and Perplexity")
 ```
 
 
-{% raw %}<img src="{{ site.url }}/images/batch_size.png" alt="">{% endraw %}
+{% raw %}![Batch Size]({{ site.url }}/images/batch_size.png){% endraw %}
 
 
 
@@ -430,7 +430,7 @@ plt.title("Number of Nodes and Perplexity")
 ```
 
 
-{% raw %}<img src="{{ site.url }}/images/nodes.png" alt="">{% endraw %}
+{% raw %}![Number of Nodes]({{ site.url }}/images/nodes.png){% endraw %}
 
 
 Hypothesis: Increasing the number of unrollings will reduce the validation set perplexity.
@@ -467,10 +467,11 @@ plt.ylabel('Perplexity')
 plt.title("Number of Unrollings and Perplexity")
 ```
 
-{% raw %}<img src="{{ site.url }}/images/unrollings.png" alt="">{% endraw %}
+{% raw %}![Number of Unrollings]({{ site.url }}/images/unrollings.png){% endraw %}
 
 
 Hypothesis: Increasing the number of epochs will reduce the perplexity
+
 Result: Increasing the number of epochs does result in a generally decreasing perplexity, however it is not a monotonically decreasing function.
 
 
@@ -503,7 +504,7 @@ plt.ylabel('Perplexity')
 plt.title("Number of Epochs and Perplexity")
 ```
 
-{% raw %}<img src="{{ site.url }}/images/epochs.png" alt="">{% endraw %}
+{% raw %}![Number of Epochs]({{ site.url }}/images/epochs.png){% endraw %}
 
 
 Question: How is the model accuracy (validation set perplexity) affected by the joint changing of num_nodes and num_unrollings?
@@ -635,7 +636,7 @@ ax.set_ylabel('Unrollings')
 ax.plot_trisurf(x, y, z, linewidth=0)
 ```
 
-{% raw %}<img src="{{ site.url }}/images/surface.png" alt="">{% endraw %}
+{% raw %}![Surface Plot]({{ site.url }}/images/surface.png){% endraw %}
 
 
 ## Summary
