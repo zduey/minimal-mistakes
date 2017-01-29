@@ -7,7 +7,6 @@ tags:
     - learning
     - ML
 ---
-{% include base_path %}
 
 # Understanding LSTM Parameterization
 
@@ -399,7 +398,7 @@ plt.title("Batch Size and Perplexity")
 ```
 
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/batch_size.png" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}/images/batch_size.png" alt="">{% endraw %}
 
 
 
@@ -431,7 +430,7 @@ plt.title("Number of Nodes and Perplexity")
 ```
 
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/nodes.png" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}/images/nodes.png" alt="">{% endraw %}
 
 
 Hypothesis: Increasing the number of unrollings will reduce the validation set perplexity.
@@ -468,7 +467,7 @@ plt.ylabel('Perplexity')
 plt.title("Number of Unrollings and Perplexity")
 ```
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/unrollings.png" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}/images/unrollings.png" alt="">{% endraw %}
 
 
 Hypothesis: Increasing the number of epochs will reduce the perplexity
@@ -504,7 +503,7 @@ plt.ylabel('Perplexity')
 plt.title("Number of Epochs and Perplexity")
 ```
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/epochs.png" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}/images/epochs.png" alt="">{% endraw %}
 
 
 Question: How is the model accuracy (validation set perplexity) affected by the joint changing of num_nodes and num_unrollings?
@@ -636,7 +635,7 @@ ax.set_ylabel('Unrollings')
 ax.plot_trisurf(x, y, z, linewidth=0)
 ```
 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/images/surface.png" alt="">{% endraw %}
+{% raw %}<img src="{{ site.url }}/images/surface.png" alt="">{% endraw %}
 
 
 ## Summary
