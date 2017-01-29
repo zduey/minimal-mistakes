@@ -367,6 +367,7 @@ lstm_model_test(64, 12, 15, 3001, 1000)
 
 
 Hypothesis: Increasing the num_nodes/batch_size will not reduce the perplexity. Given the above, this rests on the hidden assumption that the number of nodes and the bath size must be equal. Let's test them independently since I've already demonstrated that hidden assumption was incorrect.
+
 Result: Increasing the number of nodes or the batch size (holding everything else constant) results in lower perplexity. In fact, the validation set perplexity is a monotonically decreassing function of these parameters.
 
 
@@ -398,7 +399,7 @@ plt.title("Batch Size and Perplexity")
 ```
 
 
-{% raw %}![Batch Size]({{ site.url }}/images/batch_size.png){% endraw %}
+![Batch Size]({{ site.url }}/images/batch_size.png)
 
 
 
@@ -430,7 +431,7 @@ plt.title("Number of Nodes and Perplexity")
 ```
 
 
-{% raw %}![Number of Nodes]({{ site.url }}/images/nodes.png){% endraw %}
+![Number of Nodes]({{ site.url }}/images/nodes.png)
 
 
 Hypothesis: Increasing the number of unrollings will reduce the validation set perplexity.
@@ -467,7 +468,7 @@ plt.ylabel('Perplexity')
 plt.title("Number of Unrollings and Perplexity")
 ```
 
-{% raw %}![Number of Unrollings]({{ site.url }}/images/unrollings.png){% endraw %}
+![Number of Unrollings]({{ site.url }}/images/unrollings.png)
 
 
 Hypothesis: Increasing the number of epochs will reduce the perplexity
@@ -504,7 +505,7 @@ plt.ylabel('Perplexity')
 plt.title("Number of Epochs and Perplexity")
 ```
 
-{% raw %}![Number of Epochs]({{ site.url }}/images/epochs.png){% endraw %}
+![Number of Epochs]({{ site.url }}/images/epochs.png)
 
 
 Question: How is the model accuracy (validation set perplexity) affected by the joint changing of num_nodes and num_unrollings?
@@ -636,7 +637,7 @@ ax.set_ylabel('Unrollings')
 ax.plot_trisurf(x, y, z, linewidth=0)
 ```
 
-{% raw %}![Surface Plot]({{ site.url }}/images/surface.png){% endraw %}
+![Surface Plot]({{ site.url }}/images/surface.png)
 
 
 ## Summary
