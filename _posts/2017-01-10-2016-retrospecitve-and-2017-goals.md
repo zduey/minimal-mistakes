@@ -2,8 +2,9 @@
 title: 2016 Retrospective and 2017 Goals
 
 categories:
-    - Miscellaneous
+    - miscellaneous
 tags:
+    - self-study
     - personal
 ---
 

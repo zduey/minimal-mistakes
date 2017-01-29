@@ -2,7 +2,7 @@
 title: The Funnel Method
 
 categories:
-    - Tips
+    - commentary
 tags:
     - python
     - code style

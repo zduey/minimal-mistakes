@@ -3,7 +3,7 @@ title: Microsoft Easter Egg
 header:
   - image: easter-egg.png
 categories:
-  - Gotcha
+  - snippet
 tags:
   - python
   - excel
@@ -11,7 +11,9 @@ tags:
 ---
 
 
-**tl;dr 1900 was not a leap year and you know it Microsoft** [Gist](https://gist.github.com/zduey/528e78430b6ae8107ddd05f5752dff77) 
+**tl;dr 1900 was not a leap year and you know it Microsoft** 
+
+[Date Conversion Function](https://gist.github.com/zduey/528e78430b6ae8107ddd05f5752dff77) 
 
 Ever watched a Pixar movie, or more likely, read a review after the fact outlining all of the references to other Pixar movies? Well, this is not exactly like that, but you can think of this as a self-referential Easter egg between past and present Microsoft Office products. In more typical parlance: a festering bug.
 
