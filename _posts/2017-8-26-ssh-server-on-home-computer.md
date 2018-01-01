@@ -33,7 +33,7 @@ I use Ubuntu 14.04 LTS as my operating system, however, the steps will be simila
 For the purposes of this guide, 'host' will indicate the computer running the SSH server, while 'client' will refer to any computer requesting access to the host. At one point in this guide, your host computer will also be a client.
 
 ## Initial Setup
-SSH stands for "secure socket shell" and is what will allow us to establish a secure connection between two computers. Our end goal is to be able to issue commands from a client machine that are executed by the host machine. For a more thorough coverage of SSH, take a look at [this great guide by Digital Ocean](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys).
+SSH stands for "secure shell" and is what will allow us to establish a secure connection between two computers. Our end goal is to be able to issue commands from a client machine that are executed by the host machine. For a more thorough coverage of SSH, take a look at [this great guide by Digital Ocean](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys).
 
 The term "server" is often used a bit loosely. Here, we mean by the term is a process running on a computer that is tasked with managing access to a computer's resources over a network. We will be installing the openssh-server application, which will allow us to run an SSH server on our machine that will handle requests for access to the host computer from other devices.
 
