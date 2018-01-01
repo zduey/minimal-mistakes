@@ -7,9 +7,6 @@ tags:
     - self-study
     - personal
 ---
-
-## 2017 Retrospective
-
 2017 went by in a hurry. My wife and I made the move from Chicago to Philadelphia for her to start a PhD program, which also entailed me switching jobs. After some initial adjustment, work is going well and I have found myself continuing to enjoy writing code for a living. Since switching away from economics research as a career track in 2016, I have been trying to sort out exactly how far towards software engineering I want to veer. My current work is a mixture of model building/validation/testing and more traditional programming projects. Quite honestly, this mixture suits me well, although I often worry about being a jack of all trades and master of none. Although I have no regrets about moving away from the academic research career path, I do wonder whether I'll need to go back to grad school for people to take my quantitative skills seriously. In the meantime, the plan for 2018 is to continue filling in gaps in my technical background, while adding some more tools to my applied statistics belt.
 
 ### Topics
