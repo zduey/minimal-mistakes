@@ -11,9 +11,9 @@ tags:
 Over the next several weeks, I will be releasing a series of posts that discusses hyperpartisanship in the United States through an extended analogy between Bayesian statistics and critical thinking. I should start with a few disclaimers:
 
 1. I fully recognize the set of people who will be interested in this post is likely to be very small. Thanks in advance if you make it through to the end.
-2. I am not an expert in political science or Bayesian statistics, so please correct me in places where I am blatantly or subtely wrong in my statements
-3. I am sure that the connection between Bayesian statistics and opinion formation has been discussed before. I have intentionally not researched the topic so that these thoughts are as clos to my own as possible
-4. These posts are in draft state, so any constructive feedback is much appreciated
+2. I am not an expert in political science or Bayesian statistics, so please correct me in places where I am blatantly or subtly wrong.
+3. I am sure that the connection between Bayesian statistics and opinion formation has been discussed before. I have intentionally not researched the topic for this initial draft. 
+4. These posts are in draft state, so any constructive feedback is much appreciated.
 
 
 # Part 1 -- The Set Up
