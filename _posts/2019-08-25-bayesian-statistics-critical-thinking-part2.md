@@ -12,8 +12,6 @@ image:
     creditlink: https://commons.wikimedia.org/wiki/Thomas_Bayes
 ---
 
-# Background
-
 In this part, I’ll introduce some concepts that will be important for understanding the crux of the analogy in part 3. Even if some of the details remain murky, my hope is that everyone can take away the key ideas. In his excellent book, *Statistical Rethinking*, Richard McElreath provides a great introduction to these concepts, so rather than reinvent the wheel, the remainder of this post leverages the same example, but in less detail. For anyone interested in diving deeper into Bayesian statistics, I highly recommend picking up a copy of [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/).
 
 Even if you have never taken a statistics course, you have almost certainly encountered word problems either in school or on standardized tests that start with something like: “There is a bag with 1 blue marble and 3 white marbles. Jill reaches into the bag and pulls out a marble. What is the probability that Jill selects a blue marble?” In this example, the **event** of interest is: Jill selects a blue marble. Since we know the contents of the bag, we can say that the **probability** of this event occurring is 1/5 or 20%. But what if we did not know the exact contents of the bag, and only that there were a total of 4 marbles that are either blue or white? How could we make a judgement about the contents of the bag? How could we make an educated guess if all we were allowed to do was select a marble, observe its color, and put then put the marble back in the bag?
