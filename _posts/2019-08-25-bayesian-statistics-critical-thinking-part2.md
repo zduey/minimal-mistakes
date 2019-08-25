@@ -6,9 +6,11 @@ categories:
 tags:
     - bayesian
     - personal
+image:
+    thumb: /assets/images/Thomas_Bayes.gif
+    credit: wikimedia
+    creditlink: https://commons.wikimedia.org/wiki/Thomas_Bayes
 ---
-
-# Background
 
 In this part, I’ll introduce some concepts that will be important for understanding the crux of the analogy in part 3. Even if some of the details remain murky, my hope is that everyone can take away the key ideas. In his excellent book, *Statistical Rethinking*, Richard McElreath provides a great introduction to these concepts, so rather than reinvent the wheel, the remainder of this post leverages the same example, but in less detail. For anyone interested in diving deeper into Bayesian statistics, I highly recommend picking up a copy of [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/).
 
