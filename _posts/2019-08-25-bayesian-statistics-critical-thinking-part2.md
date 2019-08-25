@@ -6,6 +6,10 @@ categories:
 tags:
     - bayesian
     - personal
+image:
+    thumb: /assets/images/Thomas_Bayes.gif
+    credit: wikimedia
+    creditlink: https://commons.wikimedia.org/wiki/Thomas_Bayes
 ---
 
 # Background
