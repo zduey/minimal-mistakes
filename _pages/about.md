@@ -11,35 +11,20 @@ header:
 {% include base_path %}
 
 # Me
-In June 2017, my wife and I moved from Chicago to Philadelphia for her to start a PhD program.
-As part of that move, I started a new position as a Scientific Software Engineer at the 
-[Computational Memory Lab](http://memory.psych.upenn.edu/Main_Page) at the University of Pennsylvania. 
-I currently support the [DARPA](https://www.darpa.mil/about-us/about-darpa)-funded [RAM](https://www.darpa.mil/program/restoring-active-memory) 
-(Restoring Active Memory) project, which aims to develop an implantable memory-enhancing device
-for patients with traumatic brain injuries. Previously, I have worked at the Chicago Mercantile
-Exchange and the Federal Reserve Bank of Chicago as a Python Developer and Associate Economist respectively.
+Since June 2017, my wife and I have lived in Philadelphia, PA. I am currently a Data Scientist on the R&D team at [Blackfynn](https://www.blackfynn.com/) where I have worked on a variety of projects involving three interrelated efforts: developing data integration tools, understanding disease progression, and leveraging data-driven methods to improve trial efficiency.
 
-Personally, I have a set of somewhat stereotypical hobbies/interests including 
-coffee, cocktails, cooking, and (less now that I keep getting hurt) playing ultimate frisbee. 
-I'm also lucky enough to be married to an incredible woman who puts up with 
-this web of costly and arguably pretentious hobbies.
+Previously, I was a Scientific Software Engineer at the [Computational Memory Lab](https://www.blackfynn.com/) at the University of Pennsylvania where I worked on the [DARPA](https://www.darpa.mil/about-us/about-darpa/)-funded [Restoring Active Memory](https://www.darpa.mil/program/restoring-active-memory) (RAM) project. The goal of the RAM project was to develop an implantable memory-enhancing device for individuals with traumatic brain injuries. Prior to that, I worked at the Chicago Mercantile Exchange and the Federal Reserve Bank of Chicago as a Python Developer and Associate Economist respectively. 
+
+It’s probably clear from the section above, but I have a dual passion for software engineering and applied statistics. At the end of the day, I’m most excited by professional and educational opportunities that give me opportunity to grow along both these dimensions. Towards that end, I am currently pursuing a masters degree in Computer Science at the University of Pennsylvania on a part-time basis (one course per semester). As a life-long learner it is also important to me to share what I learn with others. In my professional life, this means giving lunch-and-learn style presentations (although they’ve gone by different names at each place I’ve worked) on topics that are of interest to me, that I’ve learned through coursework, or that I’ve picked up out of necessity for a project.
+
+On a personal level, I love to make food and drinks (pour-over coffee, espresso, and cocktails).  I am also passionate about sports (doing them, not so much watching). I was a competitive gymnast for 10 years, dove for a year in high school, and then played ultimate frisbee all through college and for a bit afterwards. I’ve transitioned to jogging and bodyweight exercises to avoid what seemed to be a constant stream of injuries. Most importantly, I’m lucky enough to be married to an incredible woman who supports me in innumerable ways and puts up with this web of costly hobbies.
 
 # Blog
-This blog should really be called "Novice to Pseudo-Journeyman", but the actual 
-title rolls off the tongue  and is a reference to one of my [favorite 
-books about programming](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer). 
-This blog is primarily self-serving, but hopefully with a healthy dose of useful 
-information for lost visitors and self-deprecating humor thrown in. It is not 
-intended to be one of those obligatory personal websites that is an unspoken 
-requirement for landing a solid tech job. Call me crazy, but I prefer a little 
-personality behind a blog. 
 
-This started as a way for me get some sort of basic familiarity with web 
-programming and resulted in a back-log of markdown files in outline form on an 
-array of topics both (I hope) generally relevant and totally trivial/personal. 
-In general, posts will be one of the following: 
+The title of the blog is a reference to [_The Pragmatic Programmer_](https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition); one of my favorite books about software development. This blog is primarily self-serving, but hopefully with a healthy dose of interesting information for lost visitors and some self-deprecating humor thrown in. It is not intended to be one of those obligatory personal websites that is an unspoken requirement for landing a solid tech job. Call me crazy, but I prefer a little personality behind a blog.
+This started as a way to get some sort of basic familiarity with web programming and resulted in a back-log of markdown files on an array of topics. In general, posts will be one of the following:
 
-1. Collections of resources
-2. Quick-hacks and Gotchas (code snippets)
-3. Commentary on developing coding skills
-4. Miscellaneous personal commentary
+1. Resources
+2. Tutorials
+3. Miscellaneous commentary
+
